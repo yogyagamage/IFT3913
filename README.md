@@ -1,6 +1,6 @@
 # IFT3913 - Qualité du logiciel 
 
-Ce cours est offert à l'automne 2024. Il est organisé suivant le calendrier ci-dessous.
+Ce cours est offert à l'automne 2025. Il est organisé suivant le calendrier ci-dessous.
 
 Avec ce cours, les étudiant(e)s auront acquis les compétences suivantes: 
 * évaluation automatique de la qualité logicielle
@@ -12,9 +12,9 @@ Les étudiant(e)s sont évalué(e)s sur la base de 3 [tâches](https://github.co
 
 Prérequis: programmation Java, [git et github](https://github.com/umontreal-diro/IFT3913/issues/13).
 
-Le cours a lieu en personne les jeudis de 8.30 à 11.30, en salle Z-317 au [Pavillon Claire-McNicoll](https://plancampus.umontreal.ca/montreal/?tx_udemplancampus_pi1%5Bbuilding%5D=384&tx_udemplancampus_pi1%5Baction%5D=show&tx_udemplancampus_pi1%5Bcontroller%5D=Building&cHash=21d285a99ff9b02e3952d15b1a39ab0f). Les séances de travaux pratique ont lieu les mardis de 8.30 à 10.30, en salle 1355 au [Pavillon André-Aisenstadt](https://plancampus.umontreal.ca/montreal/?tx_udemplancampus_pi1%5Bbuilding%5D=376&tx_udemplancampus_pi1%5Baction%5D=show&tx_udemplancampus_pi1%5Bcontroller%5D=Building&cHash=43ca17f8d3bcc8f02b40497fb5a5614a).
+Le cours a lieu en personne les vendredi de 12.30 à 15.30, en salle Z-317 au [Pavillon Claire-McNicoll](https://plancampus.umontreal.ca/montreal/?tx_udemplancampus_pi1%5Bbuilding%5D=384&tx_udemplancampus_pi1%5Baction%5D=show&tx_udemplancampus_pi1%5Bcontroller%5D=Building&cHash=21d285a99ff9b02e3952d15b1a39ab0f). Les séances de travaux pratique ont lieu les mardis de 8.30 à 10.30, en salle Z-310 au [Pavillon Claire-McNicoll](https://plancampus.umontreal.ca/montreal/?tx_udemplancampus_pi1%5Bbuilding%5D=384&tx_udemplancampus_pi1%5Baction%5D=show&tx_udemplancampus_pi1%5Bcontroller%5D=Building&cHash=21d285a99ff9b02e3952d15b1a39ab0f).
 
-Vous pouvez contacter les assistants de cours, Meriem, Yogya et Oussama, à cette adresse: dift3913@iro.umontreal.ca
+Vous pouvez contacter les assistants de cours, Meriem, Yogya et Iman, à cette adresse: dift3913@iro.umontreal.ca
 
 ## Semaine #1 jeudi 5 septembre: Introduction
 - présentation du cours et des modalités
