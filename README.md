@@ -119,18 +119,9 @@ La limite de temps est obligatoire. Tous les autres critères comptent pour un p
 
 | critère | description |
 |-------------------------------------------- | ----|
-| flags         | l'action exécute la compilation et les tests avec 5 flags différents de la JVM * |
-| structure     | l'action génère des logs clairs qui documentent quels flags sont exécutés |
-| documentation | le repo inclut une page qui documente les changements apportés à la Github action pour permettre l'exécution avec cinq flags |
-| motivation    | la documentation inclut une section qui justifie le choix de chaque flag vis-à-vis de son impact possible sur la qualité, la performance, l'observabilité |
-| qualité       | la mesure de la couverture est automatisée et le taux de couverture est mesuré à chaque build avec un flag différent; cinq taux de couverture sont mesurés par l'action |
-| humour        | le repo inclut un élément d'humour responsable et documenté |
-
-\* les flags doivent être de différents types (par exemple pas 2 flags de type print ou GC)
-
-Chaque critère compte pour un point.
-
-Si l'action ne s'exécute pas correctement, la note maximale pour cette tâche ne pourra pas dépasser 4/10.
-
-Bonus: les commits pour développer cette action sont documentés avec [lolcommits](https://github.com/lolcommits/lolcommits).
+| Github action (GA)  (25%)      | l'action échoue si le score de mutation est plus bas que sur la dernière exécution de l'action |
+| Documentation GA   (25%)  | les modifications apportées à l'action ainsi que la validation des modifications sont documentées et justifiées;  |
+| Mock (20%) | 2 classes sont simulées avec des mockito et les tests sont adaptés pour utiliser les mocks |
+| Documentation mocks (20%)   | le choix des classes, la définition des mocks, les changements dans les tests sont documentés et justifiés |
+| Humour      (10%)  | Volkswagen est inclut dans le CI |
 
