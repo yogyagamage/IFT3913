@@ -106,22 +106,16 @@ La limite de temps est obligatoire. Tous les autres critères comptent pour un p
 
 | critère | description |
 |-------------------------------------------- | ----|
-| tests 		| 10 nouveaux tests qui n'étaient pas présents dans la version initiale du repo| 
-| oracle		| chaque test inclut un oracle qui vérifie, automatiquement, que le programme a le comportement attendu| 
-| intention 	| chaque test a une intention claire documentée dans un commentaire| 
-| structure 	| les tests sont organisés en suivant le pattern AAA (arrange-act-assert)| 
-| documentation | le repo inclut une page qui documente où se trouvent les méthodes testées et justifie les choix des méthodes testées| 
-| utilité       | l'exécution des nouveaux tests augmente la couverture de code| 
-| exécution 	| les tests, y compris les 10 nouveaux, s'exécutent avec succès dans une Github action| 
-
-Chacun des critères compte pour un point.
-
-Il est très fortement conseillé que les tests s'exécutent automatiquement et correctement dans une Github action (dernier critère). Si ce n'est pas le cas, la note maximale pour cette tâche ne pourra pas dépasser 4/10.
-
-Bonus: au moins un test utilise la bibliothèque [java-faker](https://github.com/DiUS/java-faker).
+| tests (25%)	| 7 nouveaux tests, incluant un oracle,  qui augmentent le score de mutation | 
+| motivation	(15%)	| chaque test est documenté: intention, données de test et oracle sont expliqués et justifiés| 
+| mutation 	(15%) | exécuté pitest les classes testées, avec tests originaux puis avec nouveaux tests| 
+| mutants (15%) 	| les mutants détectés par les nouveaux tests sont documentés et la raison pour la détection est expliquée| 
+| faker (10%) | un nouveau cas de test qui utilise java-faker| 
+| motivation (10%) | le choix du faker est justifié et son usage est documenté| 
+| exécution (10%)	| tous les nouveaux tests s'exécutent avec succès dans la Github action| 
 
 
-## Tâche #3: test sur divers environnements
+## Tâche #3: tests sur divers environnements
 
 | critère | description |
 |-------------------------------------------- | ----|
