@@ -8,13 +8,13 @@ Avec ce cours, les étudiant(e)s auront acquis les compétences suivantes:
 * apprentissage par diverses sources de connaissances
 * curiosité et humour pour le logiciel
 
-Les étudiant(e)s sont évalué(e)s sur la base de 3 [tâches](#tâches), suivant les [critères](#critères-dévaluation) énoncés ci-dessous.
+Les étudiant(e)s sont évalué(e)s sur la base de 4 [tâches](#critères-dévaluation) décrites [ci-dessous](#critères-dévaluation).
 
 Prérequis: programmation Java, [git et github](https://github.com/umontreal-diro/IFT3913/issues/13).
 
 Le cours a lieu en personne les vendredi de 12.30 à 15.30, en salle Z-317 au [Pavillon Claire-McNicoll](https://plancampus.umontreal.ca/montreal/?tx_udemplancampus_pi1%5Bbuilding%5D=384&tx_udemplancampus_pi1%5Baction%5D=show&tx_udemplancampus_pi1%5Bcontroller%5D=Building&cHash=21d285a99ff9b02e3952d15b1a39ab0f). Les séances de travaux pratique ont lieu les mardis de 8.30 à 10.30, en salle Z-310 au [Pavillon Claire-McNicoll](https://plancampus.umontreal.ca/montreal/?tx_udemplancampus_pi1%5Bbuilding%5D=384&tx_udemplancampus_pi1%5Baction%5D=show&tx_udemplancampus_pi1%5Bcontroller%5D=Building&cHash=21d285a99ff9b02e3952d15b1a39ab0f).
 
-Vous pouvez contacter les assistants de cours, Meriem, Yogya et Iman, à cette adresse: dift3913@iro.umontreal.ca
+Vous pouvez contacter les assistants de cours, Meriem, Yogya et Imen, à cette adresse: dift3913@iro.umontreal.ca
 
 ## Semaine #1 vendredi 5 septembre: Introduction
 - présentation du cours et des modalités
@@ -69,7 +69,10 @@ Vous pouvez contacter les assistants de cours, Meriem, Yogya et Iman, à cette a
 - Présentations d'étudiants
 - matériel préparatoire: [On the Costs and Benefits of Adopting Lifelong Learning for Software Analytics](https://dl.acm.org/doi/pdf/10.1145/3639477.3639717)
 
-# Tâches
+# Evaluation IFT3913 - A25
+
+Les étudiants sont évalués sur la base des 4 tâches décrites ci-dessous. Les tâches #1 et #4 sont individuelles, les tâches #2 et #3 se font en binôme. Le poids respectif de chaque tâche est indiqué ci-dessous. La correspondance entre les notes de chaque tâche et la note litérale est dynamique.
+
 - tâche #1: présentation individuelle (30%). Les étudiants choisissent un thème parmi tous ceux abordés chaque semaine et préparent une présentation technique de 7 minutes sur ce thème.
   - [instructions détaillés](./presentations/readme.md) 
   - date limite: jour du cours
@@ -107,21 +110,27 @@ La limite de temps est obligatoire. Tous les autres critères comptent pour un p
 | critère | description |
 |-------------------------------------------- | ----|
 | tests (25%)	| 7 nouveaux tests, incluant un oracle,  qui augmentent le score de mutation | 
-| motivation	(15%)	| chaque test est documenté: intention, données de test et oracle sont expliqués et justifiés| 
+| documentation tests	(15%)	| chaque test est documenté: intention, données de test et oracle sont expliqués et justifiés| 
 | mutation 	(15%) | exécuté pitest les classes testées, avec tests originaux puis avec nouveaux tests| 
-| mutants (15%) 	| les mutants détectés par les nouveaux tests sont documentés et la raison pour la détection est expliquée| 
+| documentation mutants (15%) 	| les mutants détectés par les nouveaux tests sont documentés et la raison pour la détection est expliquée| 
 | faker (10%) | un nouveau cas de test qui utilise java-faker| 
-| motivation (10%) | le choix du faker est justifié et son usage est documenté| 
+| documentation faker (10%) | le choix du faker est justifié et son usage est documenté| 
 | exécution (10%)	| tous les nouveaux tests s'exécutent avec succès dans la Github action| 
 
 
-## Tâche #3: tests sur divers environnements
+## Tâche #3: tests d'intégration
 
 | critère | description |
 |-------------------------------------------- | ----|
 | Github action (GA)  (25%)      | l'action échoue si le score de mutation est plus bas que sur la dernière exécution de l'action |
-| Documentation GA   (25%)  | les modifications apportées à l'action ainsi que la validation des modifications sont documentées et justifiées;  |
-| Mock (20%) | 2 classes sont simulées avec des mockito et les tests sont adaptés pour utiliser les mocks |
-| Documentation mocks (20%)   | le choix des classes, la définition des mocks, les changements dans les tests sont documentés et justifiés |
-| Humour      (10%)  | Volkswagen est inclut dans le CI |
+| documentation GA   (25%)  | les modifications apportées à l'action ainsi que la validation des modifications sont documentées et justifiées;  |
+| mocks (20%) | 2 classes sont simulées avec des mockito et les tests sont adaptés pour utiliser les mocks |
+| documentation mocks (20%)   | le choix des classes, la définition des mocks, les changements dans les tests sont documentés et justifiés |
+| humour      (10%)  | Volkswagen est inclut dans le CI |
 
+## Tâche #4: quizz
+
+Trois quizz surprises au cours du semestre
+- 10 questions par quizz
+- les quizz sont distribués sur Studium
+- la note globale des quizz compte 10% de la note générale du cours 
