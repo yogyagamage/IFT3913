@@ -8,7 +8,7 @@ Avec ce cours, les étudiant(e)s auront acquis les compétences suivantes:
 * apprentissage par diverses sources de connaissances
 * curiosité et humour pour le logiciel
 
-Les étudiant(e)s sont évalué(e)s sur la base de 3 [tâches](https://github.com/umontreal-diro/IFT3913/blob/main/README.md#t%C3%A2ches), suivant les [critères](https://github.com/umontreal-diro/IFT3913/blob/main/README.md#crit%C3%A8res-d%C3%A9valuation) énoncés ci-dessous.
+Les étudiant(e)s sont évalué(e)s sur la base de 3 [tâches](#tâches), suivant les [critères](#critères-dévaluation) énoncés ci-dessous.
 
 Prérequis: programmation Java, [git et github](https://github.com/umontreal-diro/IFT3913/issues/13).
 
@@ -70,16 +70,16 @@ Vous pouvez contacter les assistants de cours, Meriem, Yogya et Iman, à cette a
 - matériel préparatoire: [On the Costs and Benefits of Adopting Lifelong Learning for Software Analytics](https://dl.acm.org/doi/pdf/10.1145/3639477.3639717)
 
 # Tâches
-- tâche #1: présentation individuelle (40%). Les étudiants choisissent un thème parmi tous ceux abordés chaque semaine et préparent une présentation technique de 7 minutes sur ce thème.
+- tâche #1: présentation individuelle (30%). Les étudiants choisissent un thème parmi tous ceux abordés chaque semaine et préparent une présentation technique de 7 minutes sur ce thème.
   - [instructions détaillés](./presentations/readme.md) 
   - date limite: jour du cours
 - tâche #2: augmentation d'une suite de tests automatique (30%). Les étudiants travaillent en binôme. Chaque binôme choisit une des [études de cas](cas-etude.md) sélectionnées pour le cours, ajoute, documente et automatise l'exécution de 10 nouveaux tests unitaires. 
   - [instructions détaillées](./tache2/readme.md)
   - date limite: vendredi 10 octobre, 17h EST 
-- tâche #3: automatisation des tests sur divers environnements. Les étudiants travaillent en binôme, le même binôme que pour la tâche #2. Chaque binôme travaille sur le même projet que pour la tâche #2, afin d'automatiser l'exécution des tests dans une diversité d'environnements. 
+- tâche #3: automatisation des tests d'intégration (30%). Les étudiants travaillent en binôme, le même binôme que pour la tâche #2. Chaque binôme travaille sur le même projet que pour la tâche #2, afin d'automatiser l'exécution des tests dans une diversité d'environnements. 
   - [instructions détaillées](./tache3/readme.md)
-  - date limite: vendredi 14 novembre, 17h EST
-- Bonus: poser au moins une question à plus de la moitié des cours (5%)
+  - date limite: vendredi 21 novembre, 17h EST
+- tâche #4: répondre à 3 quizz (10%). Vous recevrez 3 quizz au cours du semestre qui aborderont des points abordés dans les différentes présentations du cours. Les 3 quizz seront répartis sur le semestre à des dates non déterminées (a.k.a quizz surprises). Les quizz seront distribués via Studium
 
 # Critères d'évaluation
 
@@ -95,12 +95,12 @@ Vous pouvez contacter les assistants de cours, Meriem, Yogya et Iman, à cette a
 |réflection | la présentation inclut une partie réflection / recul sur le sujet|
 |conclusion | le dernier slide inclut un message clair et pratique pour l'audience|
 |compréhension | l'orat(rice.eur) montre une maitrise et compréhension claire du sujet et peut répondre aux questions de l'audience |
-|élocution | l'orat(rice.eur) parle clairement, avec assurance, et interagit avec l'audience. le sens de l'humour responsable est apprécié  |
 |slides | les slides sont lisibles, n'incluent pas trop de texte et contiennent des illustrations |
 |sources | la présentation s'appuie sur au moins 3 sources extérieures qui sont citées en bas de page et sont publiquement accessibles|
+|[demo]| la présentation inclut une démo interactive de l'outil présenté|
+|[concept]| le présentation inclut une définition claire du concept abordé ainsi que des exemples concrets du concept abordé|
 
-
-La limite de temps est obligatoire. Tous les autres critères comptent pour un point.
+La limite de temps est obligatoire. Tous les autres critères comptent pour un point. Le 2 derniers critères sont exclusifs, en fonction du type de présentation que vous choisissez de faire.
 
 ## Tâche #2: tests unitaires automatiques
 
