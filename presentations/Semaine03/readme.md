@@ -1,47 +1,5 @@
 ## Semaine #3 vendredi 19 septembre: [Test unitaire](https://github.com/umontreal-diro/IFT3913/issues/2)
 
-Pour faire une présentation sur le test unitaire, choisissez un des sujets suivants et faites une pull-request sur ce document pour ajouter votre nom. Si vous souhaitez faire une présentation sur un autre sujet, contacter les assistants le plus tôt possible pour valider le nouveau sujet.
+Pour faire une présentation sur le test unitaire, choisissez un des sujets listés ci-dessous et indiquez votre nom. Si vous souhaitez faire une présentation sur un autre sujet, contacter les assistants le plus tôt possible pour valider le nouveau sujet.
 
-[concept] Oracle de test             
-- Nom:
-- Présentation:
-
-[concept] Arrange, Act and Assert    
-- Nom:
-- Présentation:
-
-[concept] Unit Test Smells           
-- Nom:
-- Présentation:
-
-[concept] Programmation pilotée par le comportement (BDD)
-- Nom:
-- Présentation:
-
-[concept] Programmation pilotée par les tests (TDD) 
-- Nom:
-- Présentation:
-
-[concept] Génération automatique de test unitaires                            
-- Nom:
-- Présentation:
-
-[concept] Qualité des tests générés avec l'IA                            
-- Nom:
-- Présentation:
-
-[demo] Test unitaire en Java                              
-- Nom:
-- Présentation:
-
-[demo] Test unitaire en Python    
-- Nom:
-- Présentation:
-
-[demo] Test unitaire en Rust      
-- Nom:
-- Présentation:
-
-[demo] Test unitaire pour Node.js 
-- Nom:
-- Présentation:
+https://cryptpad.fr/code/#/2/code/edit/t3e-avZ-fOEAuRJuyhg5zpBq/
