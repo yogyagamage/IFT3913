@@ -26,47 +26,47 @@ Vous pouvez contacter les assistants de cours, Meriem, Yogya et Imen, à cette a
 - Démonstration: [Github Actions](https://udemontreal-my.sharepoint.com/:b:/g/personal/oussama_ben_sghaier_umontreal_ca/EQT2_ZKAMlxIsReH3OEdbLIBQxCRF5nC6VomdmU3_kwZIw?e=2Z1qzU)
  
 ## Semaine #3 vendredi 19 septembre: [Test unitaire](https://github.com/umontreal-diro/IFT3913/issues/2)
-- Introduction + présentations d'étudiants
+- Introduction + [présentations d'étudiants](presentations/Semaine03/readme.md)
 - matériel préparatoire: [Unit Tests for SQL](https://ieeexplore.ieee.org/iel7/52/10372482/10372508.pdf)
  
 ## Semaine #4 vendredi 26 septembre: [Couverture de code](https://github.com/umontreal-diro/IFT3913/issues/3)
-- Introduction + présentations d'étudiants
+- Introduction + [présentations d'étudiants](presentations/Semaine04/readme.md)
 - matériel préparatoire: [Code Coverage Best Practices](https://testing.googleblog.com/2020/08/code-coverage-best-practices.html)
  
 ## Semaine #5 vendredi 3 octobre: [Test unitaire avancé](https://github.com/umontreal-diro/IFT3913/issues/4) 
-- Introduction + présentations d'étudiants
+- Introduction + [présentations d'étudiants](presentations/Semaine05/readme.md)
 - matériel préparatoire: [Handling Flaky Unit Tests in Java](https://www.uber.com/en-CA/blog/handling-flaky-tests-java/)
  
 ## Semaine #6 vendredi 10 octobre: [Couverture de code avancée](https://github.com/umontreal-diro/IFT3913/issues/5)
-- Introduction + présentations d'étudiants
+- Introduction + [présentations d'étudiants](presentations/Semaine06/readme.md)
 - matériel préparatoire: [Testing beyond coverage](https://increment.com/reliability/testing-beyond-coverage/)
 
 ## Semaine #7 vendredi 17 octobre: [Test statique](https://github.com/umontreal-diro/IFT3913/issues/6)
-- Introduction + présentations d'étudiants
+- Introduction + [présentations d'étudiants](presentations/Semaine07/readme.md)
 - matériel préparatoire: [What is Clean Code?](https://www.sonarsource.com/blog/what-is-clean-code/)
 
 ## Semaine #8 vendredi 31 octobre: [Gestion des dépendances](https://github.com/umontreal-diro/IFT3913/issues/7)
-- Introduction + présentations d'étudiants
+- Introduction + [présentations d'étudiants](presentations/Semaine08/readme.md)
 - matériel préparatoire: [Surviving software dependencies](https://dl.acm.org/doi/pdf/10.1145/3347446)
  
 ## Semaine #9 vendredi 7 novembre: [Tester la diversité d'environnements](https://github.com/umontreal-diro/IFT3913/issues/8)
-- Introduction + présentations d'étudiants
+- Introduction + [présentations d'étudiants](presentations/Semaine09/readme.md)
 - matériel préparatoire: [Cross Browser Testing Overview](https://www.datadoghq.com/knowledge-center/cross-browser-testing/)
  
 ## Semaine #10 vendredi 14 novembre: [Tester dans un domaine spécifique](https://github.com/umontreal-diro/IFT3913/issues/10)
-- Introduction + présentations d'étudiants
+- Introduction + [présentations d'étudiants](presentations/Semaine10/readme.md)
 - matériel préparatoire: [Mobile Game Testing: Types, Tools, and More](https://game-ace.com/blog/mobile-game-testing/)
  
 ## Semaine #11 vendredi 21 novembre: [Test et humour](https://github.com/umontreal-diro/IFT3913/issues/9)
-- Introduction + présentations d'étudiants
+- Introduction + [présentations d'étudiants](presentations/Semaine11/readme.md)
 - matériel préparatoire: [With Great Humor Comes Great Developer Engagement](https://arxiv.org/pdf/2312.01680)
  
 ## Semaine #12 vendredi 28 novembre: [Test en production](https://github.com/umontreal-diro/IFT3913/issues/11)
-- Introduction + présentations d'étudiants
+- Introduction + [présentations d'étudiants](presentations/Semaine12/readme.md)
 - matériel préparatoire: [I test in prod](https://increment.com/testing/i-test-in-production/)
  
-## Semaine #13 vendredi 5 décembre: conclusion + tampon 
-- Présentations d'étudiants
+## Semaine #13 vendredi 5 décembre: conclusion 
+- Discussion ouverte sur la qualité logicielle et le déroulé d'IFT3915-A25
 - matériel préparatoire: [On the Costs and Benefits of Adopting Lifelong Learning for Software Analytics](https://dl.acm.org/doi/pdf/10.1145/3639477.3639717)
 
 # Evaluation IFT3913 - A25
