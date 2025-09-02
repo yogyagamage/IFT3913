@@ -120,4 +120,4 @@ jobs:
           2. Modifier un champ 'Nom:' et son champ 'Présentation:' correspondant
           3. Modifier un seul champ 'Présentation:' de vide à rempli
           
-          Veuillez vous assurer que vos modifications correspondent exactement à l'un de ces patterns et n'affectent qu'un seul fichier readme.md dans un dossier Semaine."
+          La PR est automatiquement fermée. Veuillez corriger votre contrition et vous assurer que vos modifications correspondent exactement à l'un de ces patterns et n'affectent qu'un seul fichier readme.md dans un dossier Semaine avant de soumettre une nouvelle PR."
