@@ -107,7 +107,7 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
-          gh pr review ${{ github.event.pull_request.number }} --approve --body "Auto-approuvé."
+          gh pr review ${{ github.event.pull_request.number }} --approve --body "Auto-approuvé 💯."
           
           # Merge
           gh pr merge ${{ github.event.pull_request.number }} --squash
@@ -117,13 +117,13 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         run: |
-          gh pr comment ${{ github.event.pull_request.number }} --body "Cette PR ne peut pas être auto-approuvée. Seules les modifications suivantes sont autorisées dans les fichiers readme:
+          gh pr comment ${{ github.event.pull_request.number }} --body "Cette PR ne peut pas être auto-approuvée ❌. Seules les modifications suivantes sont autorisées dans les fichiers readme:
           
           1. Modifier un seul champ 'Nom:' de vide à rempli (ex: 'Nom:' → 'Nom: Tim Toady')
           2. Modifier un champ 'Nom:' et son champ 'Présentation:' correspondant
           3. Modifier un seul champ 'Présentation:' de vide à rempli
           
-          La PR est automatiquement fermée. Veuillez corriger votre contrition et vous assurer que vos modifications correspondent exactement à l'un de ces patterns et n'affectent qu'un seul fichier readme.md dans un dossier Semaine avant de soumettre une nouvelle PR."
+          La PR est automatiquement fermée. Veuillez corriger votre contribution et vous assurer que vos modifications correspondent exactement à l'un de ces patterns et n'affectent qu'un seul fichier readme.md dans un dossier Semaine avant de soumettre une nouvelle PR 👍."
 
           # Close the PR
           gh pr close ${{ github.event.pull_request.number }}
