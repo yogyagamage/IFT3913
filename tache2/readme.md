@@ -19,9 +19,8 @@ Pour la tâche 2, chaque binôme doit accomplir les étapes suivantes:
 
 ## Instructions pour rendre la tâche 2
 
-Une fois la tâche accomplie, les étudiants font une nouvelle 'pull request' sur le même sous-répertoire et ajoutent les informations suivantes dans le fichier readme:
+Une fois la tâche accomplie, les étudiants font une nouvelle 'pull request' sur le sous-répertoire de leux binôme et ajoutent les informations suivantes dans le fichier readme:
 - un lien vers le référentiel (repository) Github qui inclut leur tâche
-- un lien vers la page qui documente les nouveaux test unitaires
-- le taux de couverture final après l'ajout des tests
+- un lien vers la page qui documente la tâche
 
 La date limite pour la seconde 'pull request' est indiquée sur la [page principale](../README.md/#tâche-2-tests-unitaires-automatiques) du cours.
