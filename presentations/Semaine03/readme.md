@@ -7,14 +7,14 @@ Pour faire une présentation sur le test unitaire, choisissez un des sujets list
 - Présentation:
 
 [concept] Arrange, Act and Assert    
-- Nom: 
+- Nom: Benoit Baudry
 - Présentation:
 
 [concept] Unit Test Smells           
 - Nom:
 - Présentation: 
 
-[concept] Programmation pilotée par le comportement (BDD)
+[concept] Programmation pilotée par le comportement (BDD)eur: Les modifications ne correspondent pas aux patterns autorisés
 - Nom:
 - Présentation:
 
